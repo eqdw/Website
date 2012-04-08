@@ -15,3 +15,9 @@ a{
   font-family: "pragmata tt", "pragmatapro", "courier new", "lucida console", monospace;
   font-weight: bold;
 }
+a.stealth-link{
+  color: #B4FFAE;
+  font-size: 10pt;
+  font-weight: normal;
+  text-decoration: none;
+}
