@@ -5,7 +5,9 @@ html{
   font-family: "pragmata tt", "pragmatapro", "courier new", "lucida console", monospace;
   line-height: 2px;
 }
-
+p.command:before{
+  content: "guest@eqdw.net> ";
+} 
 a{
   color: #96FF8C;
   font-size: 10pt;
