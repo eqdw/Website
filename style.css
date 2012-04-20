@@ -8,6 +8,7 @@ html{
 p{
   margin: 2px;
   padding: 0;
+  width: 565px;
 }
 p.command:before{
   content: "guest@eqdw.net> ";
