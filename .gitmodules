@@ -1,0 +1,3 @@
+[submodule "mash"]
+	path = mash
+	url = git@github.com:eqdw/mash.git
